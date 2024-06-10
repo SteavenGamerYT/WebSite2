@@ -9,7 +9,6 @@ categories:
   - Linux
 tags:
   - Gaming
-  - Slime Rancher
 draft: false
 ---
 
